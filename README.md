@@ -1,5 +1,5 @@
 # pyqrcode
-Create a custom QR Code using Python
+Create a custom QR Code using pyqrcode
 
 # Requirements
 - Python 2.6, Python 2.7, or Python 3
