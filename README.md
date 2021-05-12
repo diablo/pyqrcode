@@ -6,7 +6,7 @@ Create a custom QR Code using pyqrcode
 
 # How to run
 ```
-$ git clone https://github.com/CorvoDev/pyqrcode
+$ git clone https://github.com/DiabloTheDev/pyqrcode
 $ pip install pyqrcode
 $ pip install pypng
 $ python qrcode.py
