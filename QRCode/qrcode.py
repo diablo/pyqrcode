@@ -1,7 +1,7 @@
 import pyqrcode
 
 # .PNG
-source = "www.github.com/CorvoDev/"
+source = "www.github.com/diablo/"
 url = pyqrcode.create(source)
 url.png('qrcode.png', scale = 8)
 url.show()
